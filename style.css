@@ -1,0 +1,70 @@
+body {
+  font-size: 16px;
+  font-family: monospace;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.chef {
+  display: flex;
+  flex-direction: row;
+  margin-left: 25px;
+  margin-right: 25px;
+  border:25px;
+}
+
+div.desc {
+  padding: 25px;
+  text-align: center;
+}
+
+.form {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.role {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+}
+h1 {text-align: center;
+  font-size: 50px;
+}
+h2 {color:rgb(255, 202, 138);
+  margin-top: 25px;
+    margin-left:25px;
+    font-size: 35px;
+}
+h3 {
+  margin-left: 25px;
+}
+.introduction {
+  margin-left:25px;
+  margin-right: 25px;
+}
+.introduction2 {
+  margin-left:25px;
+  margin-right: 25px;
+}
+
+input[type="text"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: rgb(217, 217, 217);
+}
+input[type="email"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: rgb(217, 217, 217);
+}
+input[type="tel"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: rgb(217, 217, 217);
+}
